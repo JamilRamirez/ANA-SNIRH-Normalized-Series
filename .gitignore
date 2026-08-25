@@ -1,0 +1,21 @@
+# R and editor state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Interrupted transfers and local logs
+*.part
+*.tmp
+*.bak
+*.log
+
+# Local GitHub update helper
+/actualizar_github*.bat
